@@ -1,0 +1,20 @@
+target/
+*.class
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+.classpath
+.project
+.settings/
+.factorypath
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Variáveis locais
+.env
